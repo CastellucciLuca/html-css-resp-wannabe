@@ -133,6 +133,9 @@ img {
     .container{
         width: 100%;
     }
+    section.why-us{
+        padding-bottom: 5rem;
+    }
 }
 
 /*-MEDIA QUERY FOR SMARTPHONE-
