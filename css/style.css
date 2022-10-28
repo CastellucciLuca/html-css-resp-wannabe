@@ -170,3 +170,11 @@ h1.text-center{
 p.text{
     padding: 0 2rem;
 }
+/*-Second Section-*/
+.steps{
+    margin:0;
+}
+.steps .col{
+    width: 100%;
+    margin-bottom: 2rem;
+}
