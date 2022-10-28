@@ -178,3 +178,27 @@ p.text{
     width: 100%;
     margin-bottom: 2rem;
 }
+/*-Third Section-*/
+.why-us{
+    padding-top: 4rem;
+    margin: 0;
+}
+.why-us h2{
+    font-size: 2.8rem;
+}
+.why-us .row{
+    padding: 3rem;
+}
+.why-us .col-left{
+    width: 100%;
+}
+.col-left img{
+    margin-bottom: 3rem;
+}
+.why-us .col-right{
+    width: 100%;
+}
+
+.col-right li{
+    margin-bottom: 3.6rem;
+}
