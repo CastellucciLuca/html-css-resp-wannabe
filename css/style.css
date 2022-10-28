@@ -130,16 +130,12 @@ img {
 /*-MEDIA QUERY FOR TABLET-*/
 @media screen and (max-width: 768px){
     
-    body{
-        overflow-x: hidden;
-    }
-
     .container{
         width: 100%;
+    }
 }
 
-}
-/*-MEDIA QUERY FOR SMARTPHONE-*/
+/*-MEDIA QUERY FOR SMARTPHONE-
 @media screen and (max-width: 480px){
     
     body{
@@ -154,3 +150,4 @@ img {
         flex-direction: column;
     }
 }
+-*/
