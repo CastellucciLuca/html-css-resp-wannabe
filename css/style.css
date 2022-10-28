@@ -138,19 +138,26 @@ img {
     }
 }
 
-/*-MEDIA QUERY FOR SMARTPHONE-
+/*-MEDIA QUERY FOR SMARTPHONE-*/
 @media screen and (max-width: 480px){
     
     body{
-        overflow-x:hidden; 
-        
-    }
-
-    .container{
-        width: 100%;
+        max-width: 480px;
+        margin: 0 auto;
     }
     .row{
         flex-direction: column;
     }
+    .lessons .col{
+        width: 100%;
+    }
+    .steps .col{
+        width: 100%;
+    }
+    .why-us .col-left{
+        width: 100%;
+    }
+    .why-us .col-right{
+        width: 100%;
+    }
 }
--*/
