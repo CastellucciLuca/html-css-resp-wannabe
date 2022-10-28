@@ -164,3 +164,9 @@ img {
         padding: 2rem;
     }
 }
+/* MEDIA QUERY BONUS 1160px */
+@media screen and (max-width: 1160px){
+    
+    .container{
+        width: 100%;
+}
