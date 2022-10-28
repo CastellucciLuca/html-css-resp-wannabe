@@ -142,7 +142,7 @@ img {
 @media screen and (max-width: 480px){
     
     body{
-        max-width: 480px;
+        max-width: 100%;
         margin: 0 auto;
     }
     .row{
